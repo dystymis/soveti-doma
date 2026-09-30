@@ -11,8 +11,38 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://dystymis.github.io/soveti-doma/ubrat-zasohshuyu-krasku/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://dystymis.github.io/soveti-doma/nakip-vchaynike/</loc>
     <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/hranenie-pod-krovatyu/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/hranenie-luka-chesnoka/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/ubrat-pyatna-ot-kofe/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/kak-ubrat-zapah-holodilnik/</loc>
+    <lastmod>2026-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
