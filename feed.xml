@@ -6,69 +6,41 @@
     <atom:link href="https://dystymis.github.io/soveti-doma/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Полезные советы для дома: уборка, хранение, ремонт мелочей, организация пространства и бытовые хитрости, которые экономят время и деньги.</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 12 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:00:00 GMT</lastBuildDate>
     <item>
-      <title>Как выбрать утюг с отпаривателем: параметры и характеристики</title>
-      <link>https://dystymis.github.io/soveti-doma/kak-vybrat-utyug-s-otparivatelem/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/kak-vybrat-utyug-s-otparivatelem/</guid>
-      <pubDate>Mon, 12 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Утюг с отпаривателем какой лучше выбрать — мощность, подача пара, тип подошвы, объём бака, вес, режимы, отличие от парогенератора и ошибки покупки.</description>
-    </item>
-    <item>
-      <title>Срок хранения хлеба: условия, упаковка и температура</title>
-      <link>https://dystymis.github.io/soveti-doma/hranenie-hleba/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/hranenie-hleba/</guid>
-      <pubDate>Mon, 12 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Срок хранения хлеба в холодильнике, пакете и при комнатной температуре — таблица сроков, температура, упаковка, признаки порчи и способы вернуть свежесть.</description>
+      <title>Запах из стиральной машины: причины и способы устранения</title>
+      <link>https://dystymis.github.io/soveti-doma/zapah-iz-stiralnoy-mashiny/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/zapah-iz-stiralnoy-mashiny/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Запах из стиральной машины как устранить без мастера — причины затхлости, чистка барабана, манжеты, фильтра и лотка, режимы, сода, уксус и профилактика.</description>
     </item>
     <item>
       <title>Заморозка овощей на зиму: способы и сроки хранения</title>
       <link>https://dystymis.github.io/soveti-doma/zamorozka-ovoshchey-na-zimu/</link>
       <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/zamorozka-ovoshchey-na-zimu/</guid>
-      <pubDate>Sun, 11 Oct 2026 06:00:00 GMT</pubDate>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
       <description>Заморозка свежих овощей на зиму сохраняет витамины и вкус — как подготовить и упаковать, температура, сроки хранения в морозилке и правила разморозки.</description>
-    </item>
-    <item>
-      <title>Сколько хранится замороженная курица в морозилке дома</title>
-      <link>https://dystymis.github.io/soveti-doma/skolko-hranitsya-zamorozhennaya-kurica/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/skolko-hranitsya-zamorozhennaya-kurica/</guid>
-      <pubDate>Sun, 11 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Сколько хранится замороженная курица в морозильнике — сроки для целой тушки, филе и нарезки, температура, признаки порчи, повторная заморозка и разморозка.</description>
     </item>
     <item>
       <title>Уборка после ремонта квартиры: порядок работ и средства</title>
       <link>https://dystymis.github.io/soveti-doma/uborka-posle-remonta/</link>
       <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/uborka-posle-remonta/</guid>
-      <pubDate>Sat, 10 Oct 2026 06:00:00 GMT</pubDate>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
       <description>Уборка после ремонта порядок работ — пошаговый план от строительного мусора до финишной протирки, средства от пыли и следов краски, инвентарь и сроки.</description>
-    </item>
-    <item>
-      <title>Средство для мытья глянцевых кухонных фасадов: как выбрать</title>
-      <link>https://dystymis.github.io/soveti-doma/myte-glyancevyh-fasadov/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/myte-glyancevyh-fasadov/</guid>
-      <pubDate>Fri, 09 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Средство для мытья кухонных фасадов глянцевых — как выбрать без разводов, запреты по составу, инструменты, порядок мойки, удаление жира, уход и профилактика.</description>
-    </item>
-    <item>
-      <title>Хранение грецких орехов: сроки в скорлупе и очищенных</title>
-      <link>https://dystymis.github.io/soveti-doma/hranenie-greckih-orehov/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/hranenie-greckih-orehov/</guid>
-      <pubDate>Thu, 08 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Срок хранения грецких орехов в скорлупе и очищенных ядер — температура, влажность, тара, признаки прогоркания, заморозка и защита от плесени и моли.</description>
     </item>
     <item>
       <title>Стирка купальника в стиральной машине: правила и режимы</title>
       <link>https://dystymis.github.io/soveti-doma/stirka-kupalnika-v-stiralnoy-mashine/</link>
       <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/stirka-kupalnika-v-stiralnoy-mashine/</guid>
-      <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
       <description>Можно ли стирать купальник в стиральной машинке — режимы и температура, мешок для стирки, отжим, сушка, уход за резинкой и декором, удаление песка и хлора.</description>
     </item>
     <item>
-      <title>Запах из стиральной машины: причины и способы устранения</title>
-      <link>https://dystymis.github.io/soveti-doma/zapah-iz-stiralnoy-mashiny/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/zapah-iz-stiralnoy-mashiny/</guid>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Запах из стиральной машины как устранить без мастера — причины затхлости, чистка барабана, манжеты, фильтра и лотка, режимы, сода, уксус и профилактика.</description>
+      <title>Сколько хранится замороженная курица в морозилке дома</title>
+      <link>https://dystymis.github.io/soveti-doma/skolko-hranitsya-zamorozhennaya-kurica/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/skolko-hranitsya-zamorozhennaya-kurica/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Сколько хранится замороженная курица в морозильнике — сроки для целой тушки, филе и нарезки, температура, признаки порчи, повторная заморозка и разморозка.</description>
     </item>
     <item>
       <title>Как подключить люстру на три провода: схемы подключения</title>
@@ -76,6 +48,34 @@
       <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/podklyuchenie-lustry-svoimi-rukami/</guid>
       <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
       <description>Как подключить люстру три провода на потолке — схемы на один и два выключателя, определение фазы и нуля, маркировка жил, выбор клемм и поиск обрыва.</description>
+    </item>
+    <item>
+      <title>Средство для мытья глянцевых кухонных фасадов: как выбрать</title>
+      <link>https://dystymis.github.io/soveti-doma/myte-glyancevyh-fasadov/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/myte-glyancevyh-fasadov/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Средство для мытья кухонных фасадов глянцевых — как выбрать без разводов, запреты по составу, инструменты, порядок мойки, удаление жира, уход и профилактика.</description>
+    </item>
+    <item>
+      <title>Как выбрать утюг с отпаривателем: параметры и характеристики</title>
+      <link>https://dystymis.github.io/soveti-doma/kak-vybrat-utyug-s-otparivatelem/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/kak-vybrat-utyug-s-otparivatelem/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Утюг с отпаривателем какой лучше выбрать — мощность, подача пара, тип подошвы, объём бака, вес, режимы, отличие от парогенератора и ошибки покупки.</description>
+    </item>
+    <item>
+      <title>Срок хранения хлеба: условия, упаковка и температура</title>
+      <link>https://dystymis.github.io/soveti-doma/hranenie-hleba/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/hranenie-hleba/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Срок хранения хлеба в холодильнике, пакете и при комнатной температуре — таблица сроков, температура, упаковка, признаки порчи и способы вернуть свежесть.</description>
+    </item>
+    <item>
+      <title>Хранение грецких орехов: сроки в скорлупе и очищенных</title>
+      <link>https://dystymis.github.io/soveti-doma/hranenie-greckih-orehov/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/soveti-doma/hranenie-greckih-orehov/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Срок хранения грецких орехов в скорлупе и очищенных ядер — температура, влажность, тара, признаки прогоркания, заморозка и защита от плесени и моли.</description>
     </item>
     <item>
       <title>Как убрать следы от маркера со стены и мебели</title>
