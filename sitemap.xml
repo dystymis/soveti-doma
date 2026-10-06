@@ -2,11 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dystymis.github.io/soveti-doma/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
   </url>
   <url>
     <loc>https://dystymis.github.io/soveti-doma/about/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/podgotovka-morkovi-k-hraneniyu/</loc>
+    <lastmod>2026-10-06</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/antinakipin-dlya-stiralnyh-mashin/</loc>
+    <lastmod>2026-10-06</lastmod>
   </url>
   <url>
     <loc>https://dystymis.github.io/soveti-doma/zapah-iz-stiralnoy-mashiny/</loc>
@@ -49,11 +57,31 @@
     <lastmod>2026-10-05</lastmod>
   </url>
   <url>
+    <loc>https://dystymis.github.io/soveti-doma/chistka-dushevoy-kabiny-stekla/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/chistka-chaynika-ot-nakipi/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/pochinit-molniyu-na-kurtke/</loc>
+    <lastmod>2026-10-04</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/chistka-mikrovolnovki-uksusom/</loc>
+    <lastmod>2026-10-04</lastmod>
+  </url>
+  <url>
     <loc>https://dystymis.github.io/soveti-doma/ubrat-sledy-ot-markera/</loc>
     <lastmod>2026-10-03</lastmod>
   </url>
   <url>
     <loc>https://dystymis.github.io/soveti-doma/uborka-kuhni-posle-remonta/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/svetilnik-migaet-pri-vklyuchenii/</loc>
     <lastmod>2026-10-03</lastmod>
   </url>
   <url>
@@ -110,6 +138,10 @@
   </url>
   <url>
     <loc>https://dystymis.github.io/soveti-doma/rakovina-smesitel-ot-izvestkovogo-nalyota/</loc>
+    <lastmod>2026-10-02</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/potek-kran-na-kuhne/</loc>
     <lastmod>2026-10-02</lastmod>
   </url>
   <url>
@@ -185,7 +217,15 @@
     <lastmod>2026-10-01</lastmod>
   </url>
   <url>
+    <loc>https://dystymis.github.io/soveti-doma/organizaciya-hraneniya-odezhdy/</loc>
+    <lastmod>2026-10-01</lastmod>
+  </url>
+  <url>
     <loc>https://dystymis.github.io/soveti-doma/ne-krutitsya-baraban-stiralnoy-mashiny/</loc>
+    <lastmod>2026-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/soveti-doma/kontejner-dlya-hraneniya-zeleni/</loc>
     <lastmod>2026-10-01</lastmod>
   </url>
   <url>
